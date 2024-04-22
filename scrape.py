@@ -1,4 +1,5 @@
 import csv
+import re
 import urllib.request
 from bs4 import BeautifulSoup
 from time import sleep
@@ -34,6 +35,43 @@ def crawl_advert(href):
     print(href)
 
     location = soup.find('h3', class_='stickyBox__Location').get_text().strip()
+
+    res = {}
+    # Every second one is not good, so we skip it. TO DO: Check if the text could be retrieved better
+    cnt = 1
+    for tag in soup.find('div', class_='property__main-details').find_all('span'):
+        if cnt % 2 == 0:
+            cnt += 1
+            continue
+        splitted_text = tag.getText().split(':')
+        # remove non numeric characters
+        property_name = re.sub('[^A-Za-z0-9 ]+', '', splitted_text[0])
+        # remove all spaces but one
+        property_name = ' '.join(property_name.split())
+
+        property_value = re.sub('[^A-Za-z0-9 ]+', '', splitted_text[1])
+        property_value = ' '.join(property_value.split())
+
+        res[property_name] = property_value
+
+        cnt += 1
+
+    for tag in soup.find('div', class_='property__amenities').find_all('li'):
+        splitted_text = tag.getText().split(':')
+        # remove non numeric characters
+        property_name = re.sub('[^A-Za-z0-9 ]+', '', splitted_text[0])
+        # remove all spaces but one
+        property_name = ' '.join(property_name.split())
+
+        property_value = re.sub('[^A-Za-z0-9 ]+', '', splitted_text[1])
+        property_value = ' '.join(property_value.split())
+
+        res[property_name] = property_value
+
+
+    sptxt = soup.find('div', class_='property__main-details').getText().strip()
+    re.sub(r'\n\s*\n', '\n\n', sptxt)
+
     crawled_information['location'] = location
     print(location)
     insert_crawled_data_into_json(crawled_information)
