@@ -1,0 +1,600 @@
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Zemun (Centar)",54 m,3,,Da,1 3,Da,Prodaja,Trosoban stan,Novogradnja,3,1,1,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",55 m,2,Centralno,Da,1,Iznad standarda,Izdavanje,Dvosoban stan,Da,Novogradnja,Iznad standarda,2,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Donji Dorćol",97 m,3,Centralno,Da,1,Iznad standarda,Izdavanje,Trosoban stan,Da,Novogradnja,Iznad standarda,3,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",79 m,3,Centralno,Da,13,Iznad standarda,Izdavanje,Trosoban stan,Da,Novogradnja,Iznad standarda,3,2,13
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",56 m,2,Centralno,Da,2,Iznad standarda,Izdavanje,Dvosoban stan,Da,Novogradnja,Iznad standarda,2,1,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",117 m,4,Centralno,Da,23,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,23
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",1100 m,4,Centralno,Da,11,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,11
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",145 m,4,Centralno,Da,4,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",167 m,4,Centralno,Da,5,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Gornji Dorćol",40 m,2,Centralno,Ne,5 5,Nameten sa ureajima,Izdavanje,Dvosoban stan,Nameten sa ureajima,2,1,5,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost
+0,"Niš, Čair",70 m,3,TA pe,Ne,Visoko prizemlje,Da,Prodaja,Trosoban stan,Standardna gradnja,3,Visoko prizemlje
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost
+0,"Niš, Palilula",54 m,2,TA pe,Ne,6,Da,Prodaja,Dvosoban stan,Standardna gradnja,2,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",235 m,5,Centralno,Da,6 6,Iznad standarda,Izdavanje,Petosoban stan,Lux,Iznad standarda,5,3,6,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Zlatibor, Centar",33 m,1,Etano,Da,4 6,,Prodaja,Jednosoban stan,U izgradnji,Stambeno naselje,1,1,4,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Mirijevo III",42 m,,Etano,Ne,2 4,,Izdavanje,Dvosoban stan,2,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Jajinci",80 m,2,Centralno Etano Klima,Da,1 1,Nameten sa ureajima,Izdavanje,Dvosoban stan,Standardna gradnja,Nameten sa ureajima,Mirna lokacija,2,1,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija
+0,"Beograd, Voždovac",63 m,,,Ne,,,Izdavanje,Trosoban stan
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost
+0,"Beograd, Crveni krst",56 m,,,Ne,1,,Izdavanje,Dvosoban stan,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija
+0,"Beograd, Voždovac",35 m,,,Ne,,,Izdavanje,Dvosoban stan
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Lion",60 m,,,Ne,Visoko prizemlje 3,,Izdavanje,Dvosoban stan,Visoko prizemlje,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Karaburma",25 m,,TA pe,Ne,5 6,,Izdavanje,Garsonjera,5,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Zeleno Brdo",31 m,,,Ne,1 2,,Izdavanje,Dvosoban stan,1,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine
+0,"Niš, Medijana",40 m,,,Ne,,Da,Prodaja,Dvosoban stan,Novogradnja
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",121 m,4,Centralno,Da,1,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",277 m,4,Centralno,Da,4 4,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",155 m,4,Centralno,Da,5,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",171 m,4,Centralno,Da,3,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",149 m,4,Centralno,Da,4,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",209 m,3,Centralno,Da,4 4,Iznad standarda,Izdavanje,Trosoban stan,Da,Novogradnja,Iznad standarda,3,2,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Mirijevo I",66 m,3,Etano,Da,2 4,,Prodaja,Trosoban stan,2023,Novogradnja,3,2,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, 29. Novembra",86 m,3,Klima Centralno,Da,8 9,Da,Prodaja,Trosoban stan,Standardna gradnja,3,8,9
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Vrsta kue,Povrina zemljita,Teren,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Zlatibor, Centar",37 m,2,Etano Ostalo,Da,2 7,Da,Prodaja,Jednosoban stan,2024,Novogradnja,Iznad standarda,Centar,Porodina vila,100 ar,Blaga kosina,2,1,2,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, 29. Novembra",80 m,3,Klima Ostalo,Ne,1 4,,Izdavanje,Trosoban stan,Standardna gradnja,3,1,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",158 m,4,Centralno,Da,5 6,Iznad standarda,Izdavanje,etvorosoban stan,Lux,Iznad standarda,4,3,5,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,Niš,90 m,3,Klima Centralno,Da,1 7,,Izdavanje,Trosoban stan,Da,Standardna gradnja,3,1,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Niš, Centar",68 m,2,Centralno,Da,3 7,Da,Prodaja,Dvosoban stan,Standardna gradnja,2,3,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",209 m,2,Centralno,Da,4 6,Iznad standarda,Izdavanje,Dvosoban stan,Lux,Iznad standarda,2,2,4,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",50 m,2,Centralno,Da,Visoko prizemlje 7,Standardno nameten,Izdavanje,Dvosoban stan,Lux,Standardno nameten,2,1,Visoko prizemlje,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Novi Beograd Blok 65",62 m,3,Centralno,Da,1 8,Iznad standarda,Izdavanje,Trosoban stan,Novogradnja,Iznad standarda,3,2,1,8
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",92 m,3,Centralno,Ne,6 4,Iznad standarda,Izdavanje,Trosoban stan,Lux,Iznad standarda,3,2,6,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Niš, Čair",33 m,1,Klima Etano,Da,1 4,,Prodaja,Jednosoban stan,Novogradnja,1,1,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Centar (uži)",123 m,4,Centralno,Da,5 6,Da,Prodaja,etvorosoban stan,1938,Izvorno stanje,Centar,4,1,5,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Zvezdara",48 m,2,Etano,Da,4 6,Nameten sa ureajima,Izdavanje,Dvosoban stan,Da,Kompletna rekonstrukcija,Nameten sa ureajima,Stambeno naselje,2,1,4,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",277 m,6,Centralno,Da,4 5,Da,Prodaja,Petosoban stan,2015,Lux,Mirna lokacija,6,5,4,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Karaburma",57 m,3,TA pe,Da,2 5,Da,Prodaja,Trosoban stan,1973,Izvorno stanje,Stambeno naselje,3,1,2,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Mirijevo I",32 m,1,Etano,Da,3 5,Da,Prodaja,Jednosoban stan,2017,Novogradnja,1,1,3,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",32 m,1,Centralno,Ne,1 8,Iznad standarda,Izdavanje,Garsonjera,Da,Lux,Iznad standarda,Centar,1,1,1,8
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Voždovac",35 m,1,TA pe,Ne,4 4,,Prodaja,Jednosoban stan,1962,Standardna gradnja,1,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Ukupan br spratova
+0,"Zlatibor, Golija",36 m,1,Etano,Da,0 3,Da,Prodaja,Jednosoban stan,Novogradnja,1,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Zemun (Gornji grad)",62 m,3,Toplotna pumpa,Da,1 2,,Prodaja,Trosoban stan,2023,U izgradnji,3,2,1,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Zemun (Centar)",54 m,3,,Da,1 3,Da,Prodaja,Trosoban stan,Novogradnja,3,1,1,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",55 m,2,Centralno,Da,1,Iznad standarda,Izdavanje,Dvosoban stan,Da,Novogradnja,Iznad standarda,2,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Donji Dorćol",97 m,3,Centralno,Da,1,Iznad standarda,Izdavanje,Trosoban stan,Da,Novogradnja,Iznad standarda,3,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",79 m,3,Centralno,Da,13,Iznad standarda,Izdavanje,Trosoban stan,Da,Novogradnja,Iznad standarda,3,2,13
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",56 m,2,Centralno,Da,2,Iznad standarda,Izdavanje,Dvosoban stan,Da,Novogradnja,Iznad standarda,2,1,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",117 m,4,Centralno,Da,23,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,23
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",1100 m,4,Centralno,Da,11,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,11
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",145 m,4,Centralno,Da,4,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",167 m,4,Centralno,Da,5,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Gornji Dorćol",40 m,2,Centralno,Ne,5 5,Nameten sa ureajima,Izdavanje,Dvosoban stan,Nameten sa ureajima,2,1,5,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost
+0,"Niš, Čair",70 m,3,TA pe,Ne,Visoko prizemlje,Da,Prodaja,Trosoban stan,Standardna gradnja,3,Visoko prizemlje
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost
+0,"Niš, Palilula",54 m,2,TA pe,Ne,6,Da,Prodaja,Dvosoban stan,Standardna gradnja,2,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",235 m,5,Centralno,Da,6 6,Iznad standarda,Izdavanje,Petosoban stan,Lux,Iznad standarda,5,3,6,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Zlatibor, Centar",33 m,1,Etano,Da,4 6,,Prodaja,Jednosoban stan,U izgradnji,Stambeno naselje,1,1,4,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Mirijevo III",42 m,,Etano,Ne,2 4,,Izdavanje,Dvosoban stan,2,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Jajinci",80 m,2,Centralno Etano Klima,Da,1 1,Nameten sa ureajima,Izdavanje,Dvosoban stan,Standardna gradnja,Nameten sa ureajima,Mirna lokacija,2,1,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija
+0,"Beograd, Voždovac",63 m,,,Ne,,,Izdavanje,Trosoban stan
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost
+0,"Beograd, Crveni krst",56 m,,,Ne,1,,Izdavanje,Dvosoban stan,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija
+0,"Beograd, Voždovac",35 m,,,Ne,,,Izdavanje,Dvosoban stan
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Lion",60 m,,,Ne,Visoko prizemlje 3,,Izdavanje,Dvosoban stan,Visoko prizemlje,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Karaburma",25 m,,TA pe,Ne,5 6,,Izdavanje,Garsonjera,5,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Zeleno Brdo",31 m,,,Ne,1 2,,Izdavanje,Dvosoban stan,1,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine
+0,"Niš, Medijana",40 m,,,Ne,,Da,Prodaja,Dvosoban stan,Novogradnja
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",121 m,4,Centralno,Da,1,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",277 m,4,Centralno,Da,4 4,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",155 m,4,Centralno,Da,5,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",171 m,4,Centralno,Da,3,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",149 m,4,Centralno,Da,4,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",209 m,3,Centralno,Da,4 4,Iznad standarda,Izdavanje,Trosoban stan,Da,Novogradnja,Iznad standarda,3,2,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Mirijevo I",66 m,3,Etano,Da,2 4,,Prodaja,Trosoban stan,2023,Novogradnja,3,2,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, 29. Novembra",86 m,3,Klima Centralno,Da,8 9,Da,Prodaja,Trosoban stan,Standardna gradnja,3,8,9
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Vrsta kue,Povrina zemljita,Teren,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Zlatibor, Centar",37 m,2,Etano Ostalo,Da,2 7,Da,Prodaja,Jednosoban stan,2024,Novogradnja,Iznad standarda,Centar,Porodina vila,100 ar,Blaga kosina,2,1,2,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, 29. Novembra",80 m,3,Klima Ostalo,Ne,1 4,,Izdavanje,Trosoban stan,Standardna gradnja,3,1,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",158 m,4,Centralno,Da,5 6,Iznad standarda,Izdavanje,etvorosoban stan,Lux,Iznad standarda,4,3,5,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,Niš,90 m,3,Klima Centralno,Da,1 7,,Izdavanje,Trosoban stan,Da,Standardna gradnja,3,1,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Niš, Centar",68 m,2,Centralno,Da,3 7,Da,Prodaja,Dvosoban stan,Standardna gradnja,2,3,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",209 m,2,Centralno,Da,4 6,Iznad standarda,Izdavanje,Dvosoban stan,Lux,Iznad standarda,2,2,4,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",50 m,2,Centralno,Da,Visoko prizemlje 7,Standardno nameten,Izdavanje,Dvosoban stan,Lux,Standardno nameten,2,1,Visoko prizemlje,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Novi Beograd Blok 65",62 m,3,Centralno,Da,1 8,Iznad standarda,Izdavanje,Trosoban stan,Novogradnja,Iznad standarda,3,2,1,8
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",92 m,3,Centralno,Ne,6 4,Iznad standarda,Izdavanje,Trosoban stan,Lux,Iznad standarda,3,2,6,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Niš, Čair",33 m,1,Klima Etano,Da,1 4,,Prodaja,Jednosoban stan,Novogradnja,1,1,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Centar (uži)",123 m,4,Centralno,Da,5 6,Da,Prodaja,etvorosoban stan,1938,Izvorno stanje,Centar,4,1,5,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Zvezdara",48 m,2,Etano,Da,4 6,Nameten sa ureajima,Izdavanje,Dvosoban stan,Da,Kompletna rekonstrukcija,Nameten sa ureajima,Stambeno naselje,2,1,4,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",277 m,6,Centralno,Da,4 5,Da,Prodaja,Petosoban stan,2015,Lux,Mirna lokacija,6,5,4,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Karaburma",57 m,3,TA pe,Da,2 5,Da,Prodaja,Trosoban stan,1973,Izvorno stanje,Stambeno naselje,3,1,2,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Mirijevo I",32 m,1,Etano,Da,3 5,Da,Prodaja,Jednosoban stan,2017,Novogradnja,1,1,3,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",32 m,1,Centralno,Ne,1 8,Iznad standarda,Izdavanje,Garsonjera,Da,Lux,Iznad standarda,Centar,1,1,1,8
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Voždovac",35 m,1,TA pe,Ne,4 4,,Prodaja,Jednosoban stan,1962,Standardna gradnja,1,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Ukupan br spratova
+0,"Zlatibor, Golija",36 m,1,Etano,Da,0 3,Da,Prodaja,Jednosoban stan,Novogradnja,1,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Zemun (Gornji grad)",62 m,3,Toplotna pumpa,Da,1 2,,Prodaja,Trosoban stan,2023,U izgradnji,3,2,1,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Zemun (Centar)",54 m,3,,Da,1 3,Da,Prodaja,Trosoban stan,Novogradnja,3,1,1,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",55 m,2,Centralno,Da,1,Iznad standarda,Izdavanje,Dvosoban stan,Da,Novogradnja,Iznad standarda,2,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Donji Dorćol",97 m,3,Centralno,Da,1,Iznad standarda,Izdavanje,Trosoban stan,Da,Novogradnja,Iznad standarda,3,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",79 m,3,Centralno,Da,13,Iznad standarda,Izdavanje,Trosoban stan,Da,Novogradnja,Iznad standarda,3,2,13
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",56 m,2,Centralno,Da,2,Iznad standarda,Izdavanje,Dvosoban stan,Da,Novogradnja,Iznad standarda,2,1,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",117 m,4,Centralno,Da,23,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,23
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Beograd na vodi",1100 m,4,Centralno,Da,11,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,11
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",145 m,4,Centralno,Da,4,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",167 m,4,Centralno,Da,5,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Gornji Dorćol",40 m,2,Centralno,Ne,5 5,Nameten sa ureajima,Izdavanje,Dvosoban stan,Nameten sa ureajima,2,1,5,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost
+0,"Niš, Čair",70 m,3,TA pe,Ne,Visoko prizemlje,Da,Prodaja,Trosoban stan,Standardna gradnja,3,Visoko prizemlje
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost
+0,"Niš, Palilula",54 m,2,TA pe,Ne,6,Da,Prodaja,Dvosoban stan,Standardna gradnja,2,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",235 m,5,Centralno,Da,6 6,Iznad standarda,Izdavanje,Petosoban stan,Lux,Iznad standarda,5,3,6,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Zlatibor, Centar",33 m,1,Etano,Da,4 6,,Prodaja,Jednosoban stan,U izgradnji,Stambeno naselje,1,1,4,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Mirijevo III",42 m,,Etano,Ne,2 4,,Izdavanje,Dvosoban stan,2,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Jajinci",80 m,2,Centralno Etano Klima,Da,1 1,Nameten sa ureajima,Izdavanje,Dvosoban stan,Standardna gradnja,Nameten sa ureajima,Mirna lokacija,2,1,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija
+0,"Beograd, Voždovac",63 m,,,Ne,,,Izdavanje,Trosoban stan
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost
+0,"Beograd, Crveni krst",56 m,,,Ne,1,,Izdavanje,Dvosoban stan,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija
+0,"Beograd, Voždovac",35 m,,,Ne,,,Izdavanje,Dvosoban stan
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Lion",60 m,,,Ne,Visoko prizemlje 3,,Izdavanje,Dvosoban stan,Visoko prizemlje,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Karaburma",25 m,,TA pe,Ne,5 6,,Izdavanje,Garsonjera,5,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Spratnost,Ukupan broj spratova
+0,"Beograd, Zeleno Brdo",31 m,,,Ne,1 2,,Izdavanje,Dvosoban stan,1,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine
+0,"Niš, Medijana",40 m,,,Ne,,Da,Prodaja,Dvosoban stan,Novogradnja
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",121 m,4,Centralno,Da,1,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",277 m,4,Centralno,Da,4 4,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",155 m,4,Centralno,Da,5,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",171 m,4,Centralno,Da,3,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Beograd, Vračar (Hram)",149 m,4,Centralno,Da,4,Iznad standarda,Izdavanje,etvorosoban stan,Da,Novogradnja,Iznad standarda,4,3,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",209 m,3,Centralno,Da,4 4,Iznad standarda,Izdavanje,Trosoban stan,Da,Novogradnja,Iznad standarda,3,2,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Mirijevo I",66 m,3,Etano,Da,2 4,,Prodaja,Trosoban stan,2023,Novogradnja,3,2,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, 29. Novembra",86 m,3,Klima Centralno,Da,8 9,Da,Prodaja,Trosoban stan,Standardna gradnja,3,8,9
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Vrsta kue,Povrina zemljita,Teren,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Zlatibor, Centar",37 m,2,Etano Ostalo,Da,2 7,Da,Prodaja,Jednosoban stan,2024,Novogradnja,Iznad standarda,Centar,Porodina vila,100 ar,Blaga kosina,2,1,2,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, 29. Novembra",80 m,3,Klima Ostalo,Ne,1 4,,Izdavanje,Trosoban stan,Standardna gradnja,3,1,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",158 m,4,Centralno,Da,5 6,Iznad standarda,Izdavanje,etvorosoban stan,Lux,Iznad standarda,4,3,5,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,Niš,90 m,3,Klima Centralno,Da,1 7,,Izdavanje,Trosoban stan,Da,Standardna gradnja,3,1,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Niš, Centar",68 m,2,Centralno,Da,3 7,Da,Prodaja,Dvosoban stan,Standardna gradnja,2,3,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",209 m,2,Centralno,Da,4 6,Iznad standarda,Izdavanje,Dvosoban stan,Lux,Iznad standarda,2,2,4,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",50 m,2,Centralno,Da,Visoko prizemlje 7,Standardno nameten,Izdavanje,Dvosoban stan,Lux,Standardno nameten,2,1,Visoko prizemlje,7
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Novi Beograd Blok 65",62 m,3,Centralno,Da,1 8,Iznad standarda,Izdavanje,Trosoban stan,Novogradnja,Iznad standarda,3,2,1,8
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Stanje nekretnine,Opremljenost nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",92 m,3,Centralno,Ne,6 4,Iznad standarda,Izdavanje,Trosoban stan,Lux,Iznad standarda,3,2,6,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Niš, Čair",33 m,1,Klima Etano,Da,1 4,,Prodaja,Jednosoban stan,Novogradnja,1,1,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Centar (uži)",123 m,4,Centralno,Da,5 6,Da,Prodaja,etvorosoban stan,1938,Izvorno stanje,Centar,4,1,5,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Zvezdara",48 m,2,Etano,Da,4 6,Nameten sa ureajima,Izdavanje,Dvosoban stan,Da,Kompletna rekonstrukcija,Nameten sa ureajima,Stambeno naselje,2,1,4,6
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Hram)",277 m,6,Centralno,Da,4 5,Da,Prodaja,Petosoban stan,2015,Lux,Mirna lokacija,6,5,4,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Karaburma",57 m,3,TA pe,Da,2 5,Da,Prodaja,Trosoban stan,1973,Izvorno stanje,Stambeno naselje,3,1,2,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Mirijevo I",32 m,1,Etano,Da,3 5,Da,Prodaja,Jednosoban stan,2017,Novogradnja,1,1,3,5
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Opremljenost nekretnine,Pozicija,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Vračar (Centar)",32 m,1,Centralno,Ne,1 8,Iznad standarda,Izdavanje,Garsonjera,Da,Lux,Iznad standarda,Centar,1,1,1,8
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Voždovac",35 m,1,TA pe,Ne,4 4,,Prodaja,Jednosoban stan,1962,Standardna gradnja,1,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Ukupan br spratova
+0,"Zlatibor, Golija",36 m,1,Etano,Da,0 3,Da,Prodaja,Jednosoban stan,Novogradnja,1,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan broj spratova
+0,"Beograd, Zemun (Gornji grad)",62 m,3,Toplotna pumpa,Da,1 2,,Prodaja,Trosoban stan,2023,U izgradnji,3,2,1,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Palilula",200 m,5,Etano,Da,73 ar,Da,Prodaja,Porodina kua,2006,Standardna gradnja,Mirna lokacija,Klasina kua,Uglavnom ravno,5,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Voždovac",224 m,6,,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,6,3,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Mirijevo I",222 m,6,Klima Etano,Da,Prizemlje 2,Da,Prodaja,Porodina kua,Novogradnja,6,2,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Ukupan broj soba,Broj kupatila
+0,"Beograd, Sopot",316 m,6,Etano,Da,14 ar,Da,Prodaja,Porodina kua,Novogradnja,Mirna lokacija,Klasina kua,6,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Lion",200 m,4,Etano,Da,45 m,Da,Prodaja,Porodina kua,Standardna gradnja,Stambeno naselje,Klasina kua,4,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Pozicija,Vrsta kue,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Lion",200 m,4,Etano,Da,45 m,,Izdavanje,Porodina kua,Da,Standardna gradnja,Stambeno naselje,Klasina kua,4,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Kaluđerica",440 m,10,Etano,Da,Suteren 2,,Prodaja,Porodina kua,Standardna gradnja,10,Suteren,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Vidikovački venac",160 m,5,Centralno,Da,165 ar,Da,Prodaja,Duplex kue,Lux,Ravno,5,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine
+0,Inđija,311 m,,,Ne,,Da,Prodaja,Porodina kua,Standardna gradnja
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,Rakovac,186 m,7,,Da,5 ar,Da,Prodaja,Kue sa vie stanova,1980,Izvorno stanje,Stambeno naselje,Porodina vila,Ravno,7,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Niš, Ćalije",150 m,10,Centralno,Ne,2,,Prodaja,Porodina kua,Novogradnja,10,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,Kopaonik,190 m,6,Pe Kamin Etano,Da,6 ar,Da,Prodaja,Duplex kue,2015,Kompletna rekonstrukcija,Vikend naselje,Vieporodina kua,Terasasto zemljite,6,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Barajevo",246 m,5,,Da,3 3,Da,Prodaja,Porodina kua,2010,Standardna gradnja,5,3,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Kragujevac, Mala vaga",120 m,5,Etano,Da,25 ar,Da,Prodaja,Porodina kua,Standardna gradnja,Centar,Klasina kua,Blaga kosina,5,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Kragujevac, Bagremar",250 m,6,Etano,Da,6 ar,Da,Prodaja,Porodina kua,Novogradnja,Klasina kua,Ravno,6,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Beograd, Bežanijska kosa I",240 m,5,Centralno,Ne,,,Izdavanje,Porodina kua,Da,Standardna gradnja,5,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Vrsta kue,Ukupan broj soba,Broj kupatila
+0,"Kikinda, Centar",250 m,4,Etano,Ne,578 ar,Da,Prodaja,Porodina kua,1930,Izvorno stanje,Porodina vila,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Ukupan br spratova
+0,Srbija,947 m,5,,Ne,2,,Prodaja,Porodina kua,2023,Standardna gradnja,5,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Novi Sad, Centar",240 m,4,Klima,Ne,,,Izdavanje,Porodina kua,Da,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Novi Sad, Veternik",105 m,4,Klima Etano,Da,,,Izdavanje,Porodina kua,Da,Standardna gradnja,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Novi Sad, Banatić",94 m,3,Etano,Da,232 ar,Da,Prodaja,Porodina kua,Kompletna rekonstrukcija,Centar,Klasina kua,Ravno,3,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Retenzija",330 m,5,Etano,Da,2 ar,Da,Prodaja,Porodina kua,2023,Standardna gradnja,Stambeno naselje,Klasina kua,Ravno,5,6,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Ukupan br spratova
+0,"Niš, Kovanluk",150 m,4,,Ne,0 1,Da,Prodaja,Porodina kua,1960,Standardna gradnja,4,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,Niš,458 m,4,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,Topola,500 m,4,Ostalo,Da,Prizemlje 1,Da,Prodaja,Porodina kua,2016,Novogradnja,4,1,Prizemlje,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Zlatibor, Centar",300 m,10,Etano,Da,1 1,Da,Prodaja,Porodina kua,Izvorno stanje,10,1,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,Veliko Gradište,220 m,4,Etano,Ne,Visoko prizemlje 1,Da,Prodaja,Porodina kua,Izvorno stanje,4,1,Visoko prizemlje,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,Kopaonik,190 m,5,Etano,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,5,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Braće Jerković",180 m,6,Etano,Da,Prizemlje 2,,Prodaja,Porodina kua,2005,Standardna gradnja,6,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Avala",140 m,4,Ostalo,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,4,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Barajevo",110 m,10,TA pe,Ne,Prizemlje 1,Da,Prodaja,Porodina kua,Izvorno stanje,10,1,Prizemlje,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Batajnica",104 m,10,TA pe,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,10,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Mladenovac, Centar",50 m,10,TA pe,Ne,Prizemlje,Da,Prodaja,Porodina kua,Izvorno stanje,10,1,Prizemlje
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,Niš,130 m,4,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Vrsta kue,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Voždovac",380 m,55,Centralno,Da,2 ar,Da,Prodaja,Porodina kua,2004,Kompletna rekonstrukcija,Klasina kua,55,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Ćele kula",63 m,2,Ostalo,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,Mladenovac (selo),160 m,2,Etano,Da,15 ar,Da,Prodaja,Porodina kua,Kompletna rekonstrukcija,Periferija,Klasina kua,Ravno,2,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren
+0,"Beograd, Zeleno Brdo",290 m,,,Da,5 ar,Da,Prodaja,Porodina kua,1999,Lux,Mirna lokacija,Porodina vila,Blaga kosina
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba
+0,"Beograd, Batajnica",92 m,3,Etano,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Sremski Karlovci, Centar",88 m,6,Etano,Ne,522 ar,Da,Prodaja,Porodina kua,Izvorno stanje,Klasina kua,Blaga kosina,6,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan br spratova
+0,"Beograd, Dedinje (Beli dvor)",800 m,,Etano,Da,0 2,Da,Prodaja,Porodina kua,Standardna gradnja,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija
+0,"Niš, Centar",m,,,Ne,,Da,Prodaja,Porodina kua,Izvorno stanje,Centar
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Vrsta kue
+0,"Pančevo, Kotež 2",155 m,,,Ne,8 ar,Da,Prodaja,Porodina kua,Klasina kua
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Ukupan br spratova
+0,"Beograd, Avala",355 m,6,Klima Ostalo,Da,0 1,Da,Prodaja,Porodina kua,Novogradnja,6,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Duvanište",360 m,4,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,Niš,158 m,4,Ostalo Klima,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Ukupan br spratova
+0,"Niš, Ćele kula",200 m,4,Ostalo,Ne,0 2,,Prodaja,Porodina kua,Standardna gradnja,4,3,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Ćele kula",169 m,4,Ostalo,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Niš, Pantelej",175 m,4,Ostalo Klima,Ne,1 1,Da,Prodaja,Porodina kua,2022,Standardna gradnja,4,2,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Beograd mala",60 m,3,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,3,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Palilula",200 m,5,Etano,Da,73 ar,Da,Prodaja,Porodina kua,2006,Standardna gradnja,Mirna lokacija,Klasina kua,Uglavnom ravno,5,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Voždovac",224 m,6,,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,6,3,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Mirijevo I",222 m,6,Klima Etano,Da,Prizemlje 2,Da,Prodaja,Porodina kua,Novogradnja,6,2,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Ukupan broj soba,Broj kupatila
+0,"Beograd, Sopot",316 m,6,Etano,Da,14 ar,Da,Prodaja,Porodina kua,Novogradnja,Mirna lokacija,Klasina kua,6,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Lion",200 m,4,Etano,Da,45 m,Da,Prodaja,Porodina kua,Standardna gradnja,Stambeno naselje,Klasina kua,4,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Pozicija,Vrsta kue,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Lion",200 m,4,Etano,Da,45 m,,Izdavanje,Porodina kua,Da,Standardna gradnja,Stambeno naselje,Klasina kua,4,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Kaluđerica",440 m,10,Etano,Da,Suteren 2,,Prodaja,Porodina kua,Standardna gradnja,10,Suteren,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Vidikovački venac",160 m,5,Centralno,Da,165 ar,Da,Prodaja,Duplex kue,Lux,Ravno,5,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine
+0,Inđija,311 m,,,Ne,,Da,Prodaja,Porodina kua,Standardna gradnja
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,Rakovac,186 m,7,,Da,5 ar,Da,Prodaja,Kue sa vie stanova,1980,Izvorno stanje,Stambeno naselje,Porodina vila,Ravno,7,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Niš, Ćalije",150 m,10,Centralno,Ne,2,,Prodaja,Porodina kua,Novogradnja,10,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,Kopaonik,190 m,6,Pe Kamin Etano,Da,6 ar,Da,Prodaja,Duplex kue,2015,Kompletna rekonstrukcija,Vikend naselje,Vieporodina kua,Terasasto zemljite,6,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Barajevo",246 m,5,,Da,3 3,Da,Prodaja,Porodina kua,2010,Standardna gradnja,5,3,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Kragujevac, Mala vaga",120 m,5,Etano,Da,25 ar,Da,Prodaja,Porodina kua,Standardna gradnja,Centar,Klasina kua,Blaga kosina,5,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Kragujevac, Bagremar",250 m,6,Etano,Da,6 ar,Da,Prodaja,Porodina kua,Novogradnja,Klasina kua,Ravno,6,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Beograd, Bežanijska kosa I",240 m,5,Centralno,Ne,,,Izdavanje,Porodina kua,Da,Standardna gradnja,5,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Vrsta kue,Ukupan broj soba,Broj kupatila
+0,"Kikinda, Centar",250 m,4,Etano,Ne,578 ar,Da,Prodaja,Porodina kua,1930,Izvorno stanje,Porodina vila,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Ukupan br spratova
+0,Srbija,947 m,5,,Ne,2,,Prodaja,Porodina kua,2023,Standardna gradnja,5,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Novi Sad, Centar",240 m,4,Klima,Ne,,,Izdavanje,Porodina kua,Da,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Novi Sad, Veternik",105 m,4,Klima Etano,Da,,,Izdavanje,Porodina kua,Da,Standardna gradnja,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Novi Sad, Banatić",94 m,3,Etano,Da,232 ar,Da,Prodaja,Porodina kua,Kompletna rekonstrukcija,Centar,Klasina kua,Ravno,3,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Retenzija",330 m,5,Etano,Da,2 ar,Da,Prodaja,Porodina kua,2023,Standardna gradnja,Stambeno naselje,Klasina kua,Ravno,5,6,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Ukupan br spratova
+0,"Niš, Kovanluk",150 m,4,,Ne,0 1,Da,Prodaja,Porodina kua,1960,Standardna gradnja,4,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,Niš,458 m,4,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,Topola,500 m,4,Ostalo,Da,Prizemlje 1,Da,Prodaja,Porodina kua,2016,Novogradnja,4,1,Prizemlje,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Zlatibor, Centar",300 m,10,Etano,Da,1 1,Da,Prodaja,Porodina kua,Izvorno stanje,10,1,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,Veliko Gradište,220 m,4,Etano,Ne,Visoko prizemlje 1,Da,Prodaja,Porodina kua,Izvorno stanje,4,1,Visoko prizemlje,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,Kopaonik,190 m,5,Etano,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,5,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Braće Jerković",180 m,6,Etano,Da,Prizemlje 2,,Prodaja,Porodina kua,2005,Standardna gradnja,6,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Avala",140 m,4,Ostalo,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,4,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Barajevo",110 m,10,TA pe,Ne,Prizemlje 1,Da,Prodaja,Porodina kua,Izvorno stanje,10,1,Prizemlje,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Batajnica",104 m,10,TA pe,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,10,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Mladenovac, Centar",50 m,10,TA pe,Ne,Prizemlje,Da,Prodaja,Porodina kua,Izvorno stanje,10,1,Prizemlje
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,Niš,130 m,4,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Vrsta kue,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Voždovac",380 m,55,Centralno,Da,2 ar,Da,Prodaja,Porodina kua,2004,Kompletna rekonstrukcija,Klasina kua,55,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Ćele kula",63 m,2,Ostalo,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,Mladenovac (selo),160 m,2,Etano,Da,15 ar,Da,Prodaja,Porodina kua,Kompletna rekonstrukcija,Periferija,Klasina kua,Ravno,2,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren
+0,"Beograd, Zeleno Brdo",290 m,,,Da,5 ar,Da,Prodaja,Porodina kua,1999,Lux,Mirna lokacija,Porodina vila,Blaga kosina
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba
+0,"Beograd, Batajnica",92 m,3,Etano,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Sremski Karlovci, Centar",88 m,6,Etano,Ne,522 ar,Da,Prodaja,Porodina kua,Izvorno stanje,Klasina kua,Blaga kosina,6,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan br spratova
+0,"Beograd, Dedinje (Beli dvor)",800 m,,Etano,Da,0 2,Da,Prodaja,Porodina kua,Standardna gradnja,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija
+0,"Niš, Centar",m,,,Ne,,Da,Prodaja,Porodina kua,Izvorno stanje,Centar
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Vrsta kue
+0,"Pančevo, Kotež 2",155 m,,,Ne,8 ar,Da,Prodaja,Porodina kua,Klasina kua
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Ukupan br spratova
+0,"Beograd, Avala",355 m,6,Klima Ostalo,Da,0 1,Da,Prodaja,Porodina kua,Novogradnja,6,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Duvanište",360 m,4,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,Niš,158 m,4,Ostalo Klima,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Ukupan br spratova
+0,"Niš, Ćele kula",200 m,4,Ostalo,Ne,0 2,,Prodaja,Porodina kua,Standardna gradnja,4,3,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Ćele kula",169 m,4,Ostalo,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Niš, Pantelej",175 m,4,Ostalo Klima,Ne,1 1,Da,Prodaja,Porodina kua,2022,Standardna gradnja,4,2,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Beograd mala",60 m,3,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,3,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Palilula",200 m,5,Etano,Da,73 ar,Da,Prodaja,Porodina kua,2006,Standardna gradnja,Mirna lokacija,Klasina kua,Uglavnom ravno,5,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Voždovac",224 m,6,,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,6,3,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Mirijevo I",222 m,6,Klima Etano,Da,Prizemlje 2,Da,Prodaja,Porodina kua,Novogradnja,6,2,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Ukupan broj soba,Broj kupatila
+0,"Beograd, Sopot",316 m,6,Etano,Da,14 ar,Da,Prodaja,Porodina kua,Novogradnja,Mirna lokacija,Klasina kua,6,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Lion",200 m,4,Etano,Da,45 m,Da,Prodaja,Porodina kua,Standardna gradnja,Stambeno naselje,Klasina kua,4,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Pozicija,Vrsta kue,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Lion",200 m,4,Etano,Da,45 m,,Izdavanje,Porodina kua,Da,Standardna gradnja,Stambeno naselje,Klasina kua,4,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Kaluđerica",440 m,10,Etano,Da,Suteren 2,,Prodaja,Porodina kua,Standardna gradnja,10,Suteren,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Vidikovački venac",160 m,5,Centralno,Da,165 ar,Da,Prodaja,Duplex kue,Lux,Ravno,5,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine
+0,Inđija,311 m,,,Ne,,Da,Prodaja,Porodina kua,Standardna gradnja
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,Rakovac,186 m,7,,Da,5 ar,Da,Prodaja,Kue sa vie stanova,1980,Izvorno stanje,Stambeno naselje,Porodina vila,Ravno,7,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Niš, Ćalije",150 m,10,Centralno,Ne,2,,Prodaja,Porodina kua,Novogradnja,10,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,Kopaonik,190 m,6,Pe Kamin Etano,Da,6 ar,Da,Prodaja,Duplex kue,2015,Kompletna rekonstrukcija,Vikend naselje,Vieporodina kua,Terasasto zemljite,6,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Spratnost,Ukupan br spratova
+0,"Beograd, Barajevo",246 m,5,,Da,3 3,Da,Prodaja,Porodina kua,2010,Standardna gradnja,5,3,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Kragujevac, Mala vaga",120 m,5,Etano,Da,25 ar,Da,Prodaja,Porodina kua,Standardna gradnja,Centar,Klasina kua,Blaga kosina,5,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Kragujevac, Bagremar",250 m,6,Etano,Da,6 ar,Da,Prodaja,Porodina kua,Novogradnja,Klasina kua,Ravno,6,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Beograd, Bežanijska kosa I",240 m,5,Centralno,Ne,,,Izdavanje,Porodina kua,Da,Standardna gradnja,5,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Vrsta kue,Ukupan broj soba,Broj kupatila
+0,"Kikinda, Centar",250 m,4,Etano,Ne,578 ar,Da,Prodaja,Porodina kua,1930,Izvorno stanje,Porodina vila,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Ukupan br spratova
+0,Srbija,947 m,5,,Ne,2,,Prodaja,Porodina kua,2023,Standardna gradnja,5,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Novi Sad, Centar",240 m,4,Klima,Ne,,,Izdavanje,Porodina kua,Da,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Opremljenost,Transakcija,Kategorija,Uknjieno,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Novi Sad, Veternik",105 m,4,Klima Etano,Da,,,Izdavanje,Porodina kua,Da,Standardna gradnja,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Novi Sad, Banatić",94 m,3,Etano,Da,232 ar,Da,Prodaja,Porodina kua,Kompletna rekonstrukcija,Centar,Klasina kua,Ravno,3,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Retenzija",330 m,5,Etano,Da,2 ar,Da,Prodaja,Porodina kua,2023,Standardna gradnja,Stambeno naselje,Klasina kua,Ravno,5,6,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Ukupan br spratova
+0,"Niš, Kovanluk",150 m,4,,Ne,0 1,Da,Prodaja,Porodina kua,1960,Standardna gradnja,4,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,Niš,458 m,4,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,Topola,500 m,4,Ostalo,Da,Prizemlje 1,Da,Prodaja,Porodina kua,2016,Novogradnja,4,1,Prizemlje,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Zlatibor, Centar",300 m,10,Etano,Da,1 1,Da,Prodaja,Porodina kua,Izvorno stanje,10,1,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,Veliko Gradište,220 m,4,Etano,Ne,Visoko prizemlje 1,Da,Prodaja,Porodina kua,Izvorno stanje,4,1,Visoko prizemlje,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,Kopaonik,190 m,5,Etano,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,5,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Braće Jerković",180 m,6,Etano,Da,Prizemlje 2,,Prodaja,Porodina kua,2005,Standardna gradnja,6,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Avala",140 m,4,Ostalo,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,4,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Barajevo",110 m,10,TA pe,Ne,Prizemlje 1,Da,Prodaja,Porodina kua,Izvorno stanje,10,1,Prizemlje,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Beograd, Batajnica",104 m,10,TA pe,Ne,Prizemlje 2,Da,Prodaja,Porodina kua,Standardna gradnja,10,1,Prizemlje,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost
+0,"Mladenovac, Centar",50 m,10,TA pe,Ne,Prizemlje,Da,Prodaja,Porodina kua,Izvorno stanje,10,1,Prizemlje
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,Niš,130 m,4,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Vrsta kue,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Beograd, Voždovac",380 m,55,Centralno,Da,2 ar,Da,Prodaja,Porodina kua,2004,Kompletna rekonstrukcija,Klasina kua,55,2,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Ćele kula",63 m,2,Ostalo,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,Mladenovac (selo),160 m,2,Etano,Da,15 ar,Da,Prodaja,Porodina kua,Kompletna rekonstrukcija,Periferija,Klasina kua,Ravno,2,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Pozicija,Vrsta kue,Teren
+0,"Beograd, Zeleno Brdo",290 m,,,Da,5 ar,Da,Prodaja,Porodina kua,1999,Lux,Mirna lokacija,Porodina vila,Blaga kosina
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba
+0,"Beograd, Batajnica",92 m,3,Etano,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,3
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Vrsta kue,Teren,Ukupan broj soba,Broj kupatila,Ukupan broj spratova
+0,"Sremski Karlovci, Centar",88 m,6,Etano,Ne,522 ar,Da,Prodaja,Porodina kua,Izvorno stanje,Klasina kua,Blaga kosina,6,2,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan br spratova
+0,"Beograd, Dedinje (Beli dvor)",800 m,,Etano,Da,0 2,Da,Prodaja,Porodina kua,Standardna gradnja,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Pozicija
+0,"Niš, Centar",m,,,Ne,,Da,Prodaja,Porodina kua,Izvorno stanje,Centar
+,location,Kvadratura,Sobe,Grejanje,Parking,Povrina zemljita,Uknjieno,Transakcija,Kategorija,Vrsta kue
+0,"Pančevo, Kotež 2",155 m,,,Ne,8 ar,Da,Prodaja,Porodina kua,Klasina kua
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Ukupan br spratova
+0,"Beograd, Avala",355 m,6,Klima Ostalo,Da,0 1,Da,Prodaja,Porodina kua,Novogradnja,6,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Duvanište",360 m,4,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,4
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,Niš,158 m,4,Ostalo Klima,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Ukupan br spratova
+0,"Niš, Ćele kula",200 m,4,Ostalo,Ne,0 2,,Prodaja,Porodina kua,Standardna gradnja,4,3,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Ćele kula",169 m,4,Ostalo,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,4,2
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Godina izgradnje,Stanje nekretnine,Ukupan broj soba,Broj kupatila,Spratnost,Ukupan br spratova
+0,"Niš, Pantelej",175 m,4,Ostalo Klima,Ne,1 1,Da,Prodaja,Porodina kua,2022,Standardna gradnja,4,2,1,1
+,location,Kvadratura,Sobe,Grejanje,Parking,Sprat,Uknjieno,Transakcija,Kategorija,Stanje nekretnine,Ukupan broj soba,Broj kupatila
+0,"Niš, Beograd mala",60 m,3,,Ne,0,Da,Prodaja,Porodina kua,Standardna gradnja,3,1
