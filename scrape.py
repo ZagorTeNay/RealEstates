@@ -17,9 +17,14 @@ def get_data(type_of_estate):
         source = urllib.request.urlopen(url).read()
         soup = BeautifulSoup(source, 'html.parser')
 
+        if type_of_estate == 'stanovi':
+            estate_type = 'apartment'
+        else:
+            estate_type = 'house'
+
         for link in soup.find_all('div', class_='col-8 col-md-9 offer-body py-2 px-3'):
             href = link.find('a').get('href')
-            crawl_advert(NEKRETNINE_URL + href)
+            crawl_advert(NEKRETNINE_URL + href, estate_type)
         page += 1
 
         next_page = soup.find('link', rel='next')
@@ -29,12 +34,12 @@ def get_data(type_of_estate):
 )
 
 
-def crawl_advert(href):
+def crawl_advert(href, type_of_estate):
     url = href
     source = urllib.request.urlopen(url).read()
     soup = BeautifulSoup(source, 'html.parser')
 
-    crawled_information = {'href': href}
+    crawled_information = {'href': href, 'type': type_of_estate}
 
     location = soup.find('h3', class_='stickyBox__Location').get_text().strip()
     crawled_information['location'] = location
@@ -48,6 +53,7 @@ def crawl_advert(href):
         if cnt % 2 == 0:
             cnt += 1
             continue
+
         splitted_text = tag.getText().split(':')
         # remove non numeric characters
         property_name = re.sub('[^A-Za-z0-9 ]+', '', splitted_text[0])
@@ -105,7 +111,7 @@ def trim_all_informations_into_needed_ones(crawled_information):
     needed_info['area'] = crawled_information['Godina izgradnje'] if 'Godina izgradnje' in crawled_information else None
     needed_info['property_condition'] = crawled_information['Stanje nekretnine'] if 'Stanje nekretnine' in crawled_information else None
     needed_info['href'] = crawled_information['href'] if 'href' in crawled_information else None
-
+    needed_info['type'] = crawled_information['type'] if 'type' in crawled_information else None
     return needed_info
 
 
